@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text To Speech</string>
+    <string name="post">POST</string>
+    <string name="name">Name</string>
+</resources>
